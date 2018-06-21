@@ -21,6 +21,6 @@ contacts.each do |person, data|
     end
    end
   end
-  end#     delete_if 
+  end     delete_if 
 contacts
 end
