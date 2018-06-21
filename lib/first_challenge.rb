@@ -22,4 +22,4 @@ contacts.each do |person, data|
    end
   end
    
-contacts
+first_challenge
